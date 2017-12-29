@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace smog
+namespace Smog.Api
 {
     public class Startup
     {
@@ -24,6 +24,8 @@ namespace smog
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            // services.AddTransient<ISmogService, SmogService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

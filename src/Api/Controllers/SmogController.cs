@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace smog.Controllers
+namespace Smog.Api.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class SmogController : Controller
     {
         // GET api/values
         [HttpGet]
