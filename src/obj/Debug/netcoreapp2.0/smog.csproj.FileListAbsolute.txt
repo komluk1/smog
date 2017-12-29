@@ -1,0 +1,10 @@
+D:\git\smog\src\bin\Debug\netcoreapp2.0\smog.deps.json
+D:\git\smog\src\bin\Debug\netcoreapp2.0\smog.runtimeconfig.json
+D:\git\smog\src\bin\Debug\netcoreapp2.0\smog.runtimeconfig.dev.json
+D:\git\smog\src\bin\Debug\netcoreapp2.0\smog.dll
+D:\git\smog\src\bin\Debug\netcoreapp2.0\smog.pdb
+D:\git\smog\src\obj\Debug\netcoreapp2.0\smog.csproj.CoreCompileInputs.cache
+D:\git\smog\src\obj\Debug\netcoreapp2.0\smog.AssemblyInfoInputs.cache
+D:\git\smog\src\obj\Debug\netcoreapp2.0\smog.AssemblyInfo.cs
+D:\git\smog\src\obj\Debug\netcoreapp2.0\smog.dll
+D:\git\smog\src\obj\Debug\netcoreapp2.0\smog.pdb
